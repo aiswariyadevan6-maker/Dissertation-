@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+env/
+data/raw/*.csv
+data/raw/*.pcap
+*.h5
+*.pkl
+models/saved/*
+.DS_Store
